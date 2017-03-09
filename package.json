@@ -1,7 +1,7 @@
 {
   "name": "zurb-foundation-6-prebuilt",
   "version": "6.3.1",
-  "description": "The most advanced responsive front-end framework in the world.",
+  "description": "Get started quickly with the most advanced responsive front-end framework in the world.",
   "keywords": [ "zurb", "zurb-foundation" ],
   "repository": {
     "type": "git",
