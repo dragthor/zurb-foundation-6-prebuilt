@@ -6,3 +6,8 @@ http://foundation.zurb.com
 
 ## Documentation
 http://foundation.zurb.com/sites/docs/
+
+## Project on Github
+https://github.com/zurb/foundation-sites
+
+Copyright (c) 2017 ZURB, inc.
