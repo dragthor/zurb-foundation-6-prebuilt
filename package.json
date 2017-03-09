@@ -1,0 +1,15 @@
+{
+  "name": "zurb-foundation-6-prebuilt",
+  "version": "6.3.1",
+  "description": "The most advanced responsive front-end framework in the world.",
+  "keywords": [ "zurb", "zurb-foundation" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragthor/zurb-foundation-6-prebuilt.git"
+  },
+  "author": "Kris Krause",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragthor/zurb-foundation-6-prebuilt/issues"
+  }
+}
